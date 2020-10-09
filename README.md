@@ -1,5 +1,5 @@
 # Timify
-A Basic Android App for scheduling your Daily Routine
+A Basic Android App for scheduling your Daily Routine.
 
 ### Languages Used
 1. Java
